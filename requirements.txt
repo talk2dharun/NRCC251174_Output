@@ -1,0 +1,7 @@
+numpy
+rasterio
+tensorflow=2.4
+matplotlib
+scikit-learn
+openpyxl
+pandas
